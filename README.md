@@ -2,7 +2,7 @@
 
 Includes sample dataset and clustering script.
 
-!\[GitHub Repo stars](https://img.shields.io/github/stars/your-username/customer-segmentation-ml?style=flat-square) !\[Language](https://img.shields.io/badge/language-Python-blue?style=flat-square) !\[License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/your-username/customer-segmentation-ml?style=flat-square) ![Language](https://img.shields.io/badge/language-Python-blue?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 ## Repository name
 `customer-segmentation-ml`
